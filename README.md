@@ -1,3 +1,6 @@
+# Some work in progress is going now.
+No, it's not ready yet.
+
 # Learning-Rust
 roadmap for learning rust, created by [tad1](https://github.com/tad1)
 
